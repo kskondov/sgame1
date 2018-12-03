@@ -7,7 +7,7 @@
 import Phaser from 'phaser'
 
 export default {
-  name: 'SGAME1',
+  name: 'sgame1',
   data () {
     return {
       id: null,
